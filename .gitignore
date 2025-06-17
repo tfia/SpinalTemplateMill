@@ -4,3 +4,7 @@
 /*.log
 /simWorkspace/
 /tmp/
+.vscode/
+.bloop/
+.metals/
+*.sv
